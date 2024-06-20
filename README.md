@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-A full stack web developer passionate about creating dynamic and responsive web applications.
+Passionate programmer and web developer. Crafting code to innovate, inspire, and shape digital experiences.
 
 
 ## 🌐 Socials:
