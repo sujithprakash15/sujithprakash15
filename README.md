@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Passionate Web Developer and Software Tester. Crafting code to innovate, inspire, and shape digital experiences.
+Passionate Web Developer and Software Tester.
 
 
 ## 🌐 Socials:
