@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Passionate Web Developer and Software Tester.
+Hey👋🏻! I'm Sujith a Passionate Automation Tester and Web Developer.That's:It:).
 
 
 ## 🌐 Socials:
