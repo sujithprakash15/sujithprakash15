@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Hey👋🏻! I'm Sujith, a Passionate DevOps Enthusiast, Automation Tester, and Backend Developer. That's:It:)
+Hey👋🏻! I'm Sujith, a Passionate Cloud and DevOps Enthusiast. That's:It:)
 
 
 
